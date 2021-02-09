@@ -1,16 +1,15 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Cole
 
-<!--
-**coleh17/coleh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and owner of [TacoShack](https://tacoshack.dev)!
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
+📚 Currently Learning: C#, React
+* 💻 JavaScript | Node.js
+* 🗣 C# | Java | Python
+* 🛢️ MySQL | SQLite | Redis
+* 🌐 HTML | CSS
+* 💠 React
+* :octocat: Git | Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in touch
+- [Discord](https://discordapp.com/users/206875427631923200)
