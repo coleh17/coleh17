@@ -10,7 +10,7 @@ I am a Computer Science student and owner of [TacoShack](https://tacoshack.dev)!
 * 💠 React
 * :octocat: Git | Github
 
-📚 Currently Learning: C#, React, MongoDB
+📚 Currently Learning: C#, Rust, MongoDB
 
 ## 📫 Get in touch
 - [Discord](https://discordapp.com/users/206875427631923200)
