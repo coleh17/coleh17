@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Cole
 
-I am a Computer Science student and owner of [TacoShack](https://tacoshack.dev)!<br />Most of my repos are private, so my profile might be looking a little dry.
+Most of my repos are private, so my profile might be looking a little dry.
 
 ## ⚡ Tech Stack
 * 💻 JavaScript | Node.js
