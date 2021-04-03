@@ -6,8 +6,7 @@ Most of my repos are private, so my profile might be looking a little dry.
 * 💻 JavaScript | Node.js
 * 🗣 C# | Java | Python
 * 🛢️ MySQL | SQLite | Redis
-* 🌐 HTML | CSS
-* 💠 React
+* 🌐 HTML | CSS | React
 * :octocat: Git | Github
 
 📚 Currently Learning: C#, Rust, MongoDB
