@@ -4,12 +4,12 @@ Most of my repos are private, so my profile might be looking a little dry.
 
 ## ⚡ Tech Stack
 * 💻 JavaScript | Node.js
-* 🗣 C# | Java | Python
+* 🗣 C# | Java | Python | C#
 * 🛢️ MySQL | SQLite | Redis
 * 🌐 HTML | CSS | React
 * :octocat: Git | Github
 
-📚 Currently Learning: C#, Rust, MongoDB
+📚 Currently Learning: C++, MongoDB
 
 ## 📫 Get in touch
 - [Discord](https://discordapp.com/users/206875427631923200)
