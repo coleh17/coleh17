@@ -4,7 +4,7 @@ Most of my repos are private, so my profile might be looking a little dry.
 
 ## ⚡ Tech Stack
 * 💻 JavaScript | Node.js
-* 🗣 C# | Java | Python | C#
+* 🗣 C# | Java | Python
 * 🛢️ MySQL | SQLite | Redis
 * 🌐 HTML | CSS | React
 * :octocat: Git | Github
